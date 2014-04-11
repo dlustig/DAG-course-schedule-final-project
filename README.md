@@ -10,4 +10,5 @@ and returns an acceptable schedule the fulfills all prereq's and course needs. I
 the user is notified and the application is stopped.
 
 Instructions:
+
 1. Source the main.cpp and input.txt within the same folder.
